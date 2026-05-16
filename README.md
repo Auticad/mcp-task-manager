@@ -360,3 +360,6 @@ mcp-task-manager/
 ├── uv.lock            # Lock file delle dipendenze
 └── tasks.db           # Database SQLite — creato automaticamente, non versionato
 ```
+---
+
+This project is licensed under the [MIT License](LICENSE).
